@@ -54,11 +54,11 @@ describe('My Awesome Acceptance Tests', () => {
 Here's a brief intro about what a developer must do in order to start developing
 the project further:
 
-<<TODO>>
+//TODO
 
 ## Features
 
-<<TODO>> (For now, check out the inline documentation - https://github.com/BryceEWatson/headless-helper/blob/master/src/index.js )
+//TODO (For now, check out the inline documentation - https://github.com/BryceEWatson/headless-helper/blob/master/src/index.js )
 
 ## Contributing
 
@@ -66,7 +66,7 @@ If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome.
 
 ## Links
-<<TODO>
+//TODO
 
 ## Licensing
 
